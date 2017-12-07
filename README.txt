@@ -9,7 +9,7 @@ DISTRIBUTOR: Themewagon.com
 DISTRIBUTOR URI: https://themewagon.com/
 Twitter: https://twitter.com/themewagon
 Facebook: https://www.facebook.com/themewagon
-For more free responsive HTML5 templates visit https://themewagon.com/theme_tag/free/
+Find more free responsive HTML5 templates visit https://themewagon.com/theme_tag/free/
 
 CREDITS:
 
