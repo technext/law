@@ -5,6 +5,11 @@ AUTHOR URI: https://probootstrap.com/
 Twitter: https://twitter.com/probootstrap
 Facebook: https://facebook.com/probootstrap
 
+DISTRIBUTOR: Themewagon.com
+DISTRIBUTOR URI: https://themewagon.com/
+Twitter: https://twitter.com/themewagon
+Facebook: https://www.facebook.com/themewagon
+For more free responsive HTML5 templates visit https://themewagon.com/theme_tag/free/
 
 CREDITS:
 
